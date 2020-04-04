@@ -1,0 +1,10 @@
+# comment
+POP pop
+PUSH push
++ plus
+- minus
+* umnoj
+/ del
+SQRT sqrt
+PRINT print
+DEFINE define
