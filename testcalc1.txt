@@ -1,0 +1,8 @@
+PUSH a
+DEFINE a 20
+PUSH b
+PUSH b
+DEFINE b 30
+POP b
+-
+PRINT

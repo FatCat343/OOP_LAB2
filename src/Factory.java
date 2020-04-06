@@ -17,9 +17,9 @@ public class Factory {
             prop.load(inputStream);
             for (String key : prop.stringPropertyNames())
             {
-                System.out.println(key + "_   _" + prop.getProperty(key));
+                //System.out.println(key + "_   _" + prop.getProperty(key));
                 String line = prop.getProperty(key);
-                speclist.put(key, line);
+                speclist.put(line, key);
 
             }
             //String line;

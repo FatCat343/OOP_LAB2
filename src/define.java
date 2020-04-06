@@ -1,3 +1,6 @@
+import java.io.FileWriter;
+import java.io.IOException;
+
 public class define implements worker {
     public define(){}
     public void todo(String[] command, workContext wc){
@@ -7,13 +10,13 @@ public class define implements worker {
 class comment implements worker {
     public comment(){}
     public void todo(String[] command, workContext wc){
-        System.out.println(command[1]);
+        //System.out.println("comment was used");
     };
 }
 class pop implements worker {
     public pop(){}
     public void todo(String[] command, workContext wc){
-        wc.addef(command[1], command[2]);
+        wc.popstack();
     };
 }
 class push implements worker {
@@ -123,7 +126,7 @@ class sqrt implements worker {
         catch(NumberFormatException err){
             v1 = wc.getdef(var1);
         }
-        System.out.println(v1);
+        //System.out.println(v1);
         double res = Math.sqrt(v1);
         wc.pushstack(String.valueOf(res));
     };
@@ -139,6 +142,14 @@ class print implements worker {
         catch(NumberFormatException err){
             v1 = wc.getdef(var1);
         }
-        System.out.println(v1);
+        try {
+            FileWriter out = new FileWriter("res.txt");
+            out.write(String.valueOf(v1));
+            out.close();
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        //System.out.println(v1);
     };
 }

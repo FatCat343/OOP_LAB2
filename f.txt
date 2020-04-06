@@ -1,5 +1,5 @@
-# comment
 POP pop
+COM comment
 PUSH push
 + plus
 - minus

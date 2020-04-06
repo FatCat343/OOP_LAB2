@@ -1,3 +1,6 @@
+PUSH a
 PUSH 4
+DEFINE a 4
+# *
 SQRT
 PRINT
