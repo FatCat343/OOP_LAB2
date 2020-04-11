@@ -1,0 +1,274 @@
+апр. 07, 2020 11:55:46 AM calculator calc
+INFO: Создаем фабрику
+апр. 07, 2020 11:55:46 AM calculator calc
+INFO: Создаем контекст работы
+апр. 07, 2020 11:55:46 AM calculator calc
+INFO: Создаем парсер рабочего файла
+апр. 07, 2020 11:55:46 AM calculator calc
+INFO: Начинаем алгоритм
+апр. 07, 2020 11:55:46 AM calculator calc
+INFO: Считали строку рабочего файла - PUSH a
+апр. 07, 2020 11:55:46 AM calculator calc
+INFO: Достаем готовый объект рабочего - PUSH
+апр. 07, 2020 11:55:46 AM calculator calc
+INFO: Вызвали рабочего - PUSH с параметрамиPUSH a
+апр. 07, 2020 11:55:46 AM calculator calc
+INFO: Считали строку рабочего файла - PUSH 4
+апр. 07, 2020 11:55:46 AM calculator calc
+INFO: Создаем новый объект рабочего - PUSH
+апр. 07, 2020 11:55:46 AM calculator calc
+INFO: Вызвали рабочего - PUSH с параметрамиPUSH 4
+апр. 07, 2020 11:55:46 AM calculator calc
+INFO: Считали строку рабочего файла - DEFINE a 4
+апр. 07, 2020 11:55:46 AM calculator calc
+INFO: Достаем готовый объект рабочего - DEFINE
+апр. 07, 2020 11:55:46 AM calculator calc
+INFO: Вызвали рабочего - DEFINE с параметрамиDEFINE a 4
+апр. 07, 2020 11:55:46 AM calculator calc
+INFO: Считали строку рабочего файла - # *
+апр. 07, 2020 11:55:46 AM calculator calc
+INFO: Достаем готовый объект рабочего - #
+апр. 07, 2020 11:55:46 AM calculator calc
+INFO: Вызвали рабочего - # с параметрами# *
+апр. 07, 2020 11:55:46 AM calculator calc
+INFO: Считали строку рабочего файла - SQRT
+апр. 07, 2020 11:55:46 AM calculator calc
+INFO: Достаем готовый объект рабочего - SQRT
+апр. 07, 2020 11:55:46 AM calculator calc
+INFO: Вызвали рабочего - SQRT с параметрамиSQRT
+апр. 07, 2020 11:55:46 AM calculator calc
+INFO: Считали строку рабочего файла - PRINT
+апр. 07, 2020 11:55:46 AM calculator calc
+INFO: Достаем готовый объект рабочего - PRINT
+апр. 07, 2020 11:55:46 AM calculator calc
+INFO: Вызвали рабочего - PRINT с параметрамиPRINT
+апр. 07, 2020 11:56:19 AM calculator calc
+INFO: Создаем фабрику
+апр. 07, 2020 11:56:19 AM calculator calc
+INFO: Создаем контекст работы
+апр. 07, 2020 11:56:19 AM calculator calc
+INFO: Создаем парсер рабочего файла
+апр. 07, 2020 11:56:19 AM calculator calc
+INFO: Начинаем алгоритм
+апр. 07, 2020 11:56:19 AM calculator calc
+INFO: Считали строку рабочего файла - PUSH a
+апр. 07, 2020 11:56:19 AM calculator calc
+INFO: Достаем готовый объект рабочего - PUSH
+апр. 07, 2020 11:56:19 AM calculator calc
+INFO: Вызвали рабочего - PUSH с параметрами  PUSH a
+апр. 07, 2020 11:56:19 AM calculator calc
+INFO: Считали строку рабочего файла - PUSH 4
+апр. 07, 2020 11:56:19 AM calculator calc
+INFO: Создаем новый объект рабочего - PUSH
+апр. 07, 2020 11:56:19 AM calculator calc
+INFO: Вызвали рабочего - PUSH с параметрами  PUSH 4
+апр. 07, 2020 11:56:19 AM calculator calc
+INFO: Считали строку рабочего файла - DEFINE a 4
+апр. 07, 2020 11:56:19 AM calculator calc
+INFO: Достаем готовый объект рабочего - DEFINE
+апр. 07, 2020 11:56:19 AM calculator calc
+INFO: Вызвали рабочего - DEFINE с параметрами  DEFINE a 4
+апр. 07, 2020 11:56:19 AM calculator calc
+INFO: Считали строку рабочего файла - # *
+апр. 07, 2020 11:56:19 AM calculator calc
+INFO: Достаем готовый объект рабочего - #
+апр. 07, 2020 11:56:19 AM calculator calc
+INFO: Вызвали рабочего - # с параметрами  # *
+апр. 07, 2020 11:56:19 AM calculator calc
+INFO: Считали строку рабочего файла - SQRT
+апр. 07, 2020 11:56:19 AM calculator calc
+INFO: Достаем готовый объект рабочего - SQRT
+апр. 07, 2020 11:56:19 AM calculator calc
+INFO: Вызвали рабочего - SQRT с параметрами  SQRT
+апр. 07, 2020 11:56:19 AM calculator calc
+INFO: Считали строку рабочего файла - PRINT
+апр. 07, 2020 11:56:19 AM calculator calc
+INFO: Достаем готовый объект рабочего - PRINT
+апр. 07, 2020 11:56:19 AM calculator calc
+INFO: Вызвали рабочего - PRINT с параметрами  PRINT
+апр. 07, 2020 12:00:29 PM calculator calc
+INFO: Создаем фабрику
+апр. 07, 2020 12:00:29 PM calculator calc
+INFO: Создаем контекст работы
+апр. 07, 2020 12:00:29 PM calculator calc
+INFO: Создаем парсер рабочего файла
+апр. 07, 2020 12:00:29 PM calculator calc
+INFO: Начинаем алгоритм
+апр. 07, 2020 12:00:29 PM calculator calc
+INFO: Считали строку рабочего файла - PUSH a
+апр. 07, 2020 12:00:29 PM calculator calc
+INFO: достаем готовый объект рабочего - PUSH
+апр. 07, 2020 12:00:29 PM calculator calc
+INFO: Вызвали рабочего - PUSH с параметрами  PUSH a
+апр. 07, 2020 12:00:29 PM calculator calc
+INFO: Считали строку рабочего файла - PUSH 4
+апр. 07, 2020 12:00:29 PM calculator calc
+INFO: Создаем новый объект рабочего - PUSH
+апр. 07, 2020 12:00:29 PM calculator calc
+INFO: Вызвали рабочего - PUSH с параметрами  PUSH 4
+апр. 07, 2020 12:00:29 PM calculator calc
+INFO: Считали строку рабочего файла - DEFINE a 4
+апр. 07, 2020 12:00:29 PM calculator calc
+INFO: достаем готовый объект рабочего - DEFINE
+апр. 07, 2020 12:00:29 PM calculator calc
+INFO: Вызвали рабочего - DEFINE с параметрами  DEFINE a 4
+апр. 07, 2020 12:00:29 PM calculator calc
+INFO: Считали строку рабочего файла - # *
+апр. 07, 2020 12:00:29 PM calculator calc
+INFO: достаем готовый объект рабочего - #
+апр. 07, 2020 12:00:29 PM calculator calc
+INFO: Вызвали рабочего - # с параметрами  # *
+апр. 07, 2020 12:00:29 PM calculator calc
+INFO: Считали строку рабочего файла - SQRT
+апр. 07, 2020 12:00:29 PM calculator calc
+INFO: достаем готовый объект рабочего - SQRT
+апр. 07, 2020 12:00:29 PM calculator calc
+INFO: Вызвали рабочего - SQRT с параметрами  SQRT
+апр. 07, 2020 12:00:29 PM calculator calc
+INFO: Считали строку рабочего файла - PRINT
+апр. 07, 2020 12:00:29 PM calculator calc
+INFO: достаем готовый объект рабочего - PRINT
+апр. 07, 2020 12:00:29 PM calculator calc
+INFO: Вызвали рабочего - PRINT с параметрами  PRINT
+апр. 07, 2020 12:01:34 PM calculator calc
+INFO: Создаем фабрику
+апр. 07, 2020 12:01:35 PM calculator calc
+INFO: Создаем контекст работы
+апр. 07, 2020 12:01:35 PM calculator calc
+INFO: Создаем парсер рабочего файла
+апр. 07, 2020 12:01:35 PM calculator calc
+INFO: Начинаем алгоритм
+апр. 07, 2020 12:01:35 PM calculator calc
+INFO: Считали строку рабочего файла - PUSH a
+апр. 07, 2020 12:01:35 PM calculator calc
+INFO: Создем новый объект рабочего - PUSH
+апр. 07, 2020 12:01:35 PM calculator calc
+INFO: Вызвали рабочего - PUSH с параметрами  PUSH a
+апр. 07, 2020 12:01:35 PM calculator calc
+INFO: Считали строку рабочего файла - PUSH 4
+апр. 07, 2020 12:01:35 PM calculator calc
+INFO: Достаем готовый объект рабочего - PUSH
+апр. 07, 2020 12:01:35 PM calculator calc
+INFO: Вызвали рабочего - PUSH с параметрами  PUSH 4
+апр. 07, 2020 12:01:35 PM calculator calc
+INFO: Считали строку рабочего файла - DEFINE a 4
+апр. 07, 2020 12:01:35 PM calculator calc
+INFO: Создем новый объект рабочего - DEFINE
+апр. 07, 2020 12:01:35 PM calculator calc
+INFO: Вызвали рабочего - DEFINE с параметрами  DEFINE a 4
+апр. 07, 2020 12:01:35 PM calculator calc
+INFO: Считали строку рабочего файла - # *
+апр. 07, 2020 12:01:35 PM calculator calc
+INFO: Создем новый объект рабочего - #
+апр. 07, 2020 12:01:35 PM calculator calc
+INFO: Вызвали рабочего - # с параметрами  # *
+апр. 07, 2020 12:01:35 PM calculator calc
+INFO: Считали строку рабочего файла - SQRT
+апр. 07, 2020 12:01:35 PM calculator calc
+INFO: Создем новый объект рабочего - SQRT
+апр. 07, 2020 12:01:35 PM calculator calc
+INFO: Вызвали рабочего - SQRT с параметрами  SQRT
+апр. 07, 2020 12:01:35 PM calculator calc
+INFO: Считали строку рабочего файла - PRINT
+апр. 07, 2020 12:01:35 PM calculator calc
+INFO: Создем новый объект рабочего - PRINT
+апр. 07, 2020 12:01:35 PM calculator calc
+INFO: Вызвали рабочего - PRINT с параметрами  PRINT
+апр. 07, 2020 12:20:44 PM calculator calc
+INFO: Создаем фабрику
+апр. 07, 2020 12:20:44 PM calculator calc
+INFO: Создаем контекст работы
+апр. 07, 2020 12:20:44 PM calculator calc
+INFO: Создаем парсер рабочего файла
+апр. 07, 2020 12:20:45 PM calculator calc
+INFO: Начинаем алгоритм
+апр. 07, 2020 12:20:45 PM calculator calc
+INFO: Считали строку рабочего файла - PUSH a
+апр. 07, 2020 12:20:45 PM calculator calc
+INFO: Создем новый объект рабочего - PUSH
+апр. 07, 2020 12:20:45 PM calculator calc
+INFO: Вызвали рабочего - PUSH с параметрами  PUSH a
+апр. 07, 2020 12:20:45 PM calculator calc
+INFO: Считали строку рабочего файла - PUSH 4
+апр. 07, 2020 12:20:45 PM calculator calc
+INFO: Достаем готовый объект рабочего - PUSH
+апр. 07, 2020 12:20:45 PM calculator calc
+INFO: Вызвали рабочего - PUSH с параметрами  PUSH 4
+апр. 07, 2020 12:20:45 PM calculator calc
+INFO: Считали строку рабочего файла - DEFINE a 4
+апр. 07, 2020 12:20:45 PM calculator calc
+INFO: Создем новый объект рабочего - DEFINE
+апр. 07, 2020 12:20:45 PM calculator calc
+INFO: Вызвали рабочего - DEFINE с параметрами  DEFINE a 4
+апр. 07, 2020 12:20:45 PM calculator calc
+INFO: Считали строку рабочего файла - # *
+апр. 07, 2020 12:20:45 PM calculator calc
+INFO: Создем новый объект рабочего - #
+апр. 07, 2020 12:20:45 PM calculator calc
+INFO: Вызвали рабочего - # с параметрами  # *
+апр. 07, 2020 12:20:45 PM calculator calc
+INFO: Считали строку рабочего файла - SQRT
+апр. 07, 2020 12:20:45 PM calculator calc
+INFO: Создем новый объект рабочего - SQRT
+апр. 07, 2020 12:20:45 PM calculator calc
+INFO: Вызвали рабочего - SQRT с параметрами  SQRT
+апр. 07, 2020 12:20:45 PM sqrt todo
+INFO: Определили аргумент как - 4.0
+апр. 07, 2020 12:20:45 PM calculator calc
+INFO: Считали строку рабочего файла - PRINT
+апр. 07, 2020 12:20:45 PM calculator calc
+INFO: Создем новый объект рабочего - PRINT
+апр. 07, 2020 12:20:45 PM calculator calc
+INFO: Вызвали рабочего - PRINT с параметрами  PRINT
+апр. 07, 2020 12:20:45 PM print todo
+INFO: Определили аргумент как - 2.0
+апр. 07, 2020 12:24:53 PM calculator calc
+INFO: Создаем фабрику
+апр. 07, 2020 12:24:53 PM calculator calc
+INFO: Создаем контекст работы
+апр. 07, 2020 12:24:53 PM calculator calc
+INFO: Создаем парсер рабочего файла
+апр. 07, 2020 12:24:53 PM calculator calc
+INFO: Начинаем алгоритм
+апр. 07, 2020 12:24:53 PM calculator calc
+INFO: Считали строку рабочего файла - PUSH a
+апр. 07, 2020 12:24:53 PM calculator calc
+INFO: Создем новый объект рабочего - PUSH
+апр. 07, 2020 12:24:53 PM calculator calc
+INFO: Вызвали рабочего - PUSH с параметрами  PUSH a
+апр. 07, 2020 12:24:53 PM calculator calc
+INFO: Считали строку рабочего файла - PUSH 4
+апр. 07, 2020 12:24:53 PM calculator calc
+INFO: Достаем готовый объект рабочего - PUSH
+апр. 07, 2020 12:24:53 PM calculator calc
+INFO: Вызвали рабочего - PUSH с параметрами  PUSH 4
+апр. 07, 2020 12:24:53 PM calculator calc
+INFO: Считали строку рабочего файла - DEFINE a 4
+апр. 07, 2020 12:24:53 PM calculator calc
+INFO: Создем новый объект рабочего - DEFINE
+апр. 07, 2020 12:24:53 PM calculator calc
+INFO: Вызвали рабочего - DEFINE с параметрами  DEFINE a 4
+апр. 07, 2020 12:24:53 PM calculator calc
+INFO: Считали строку рабочего файла - # *
+апр. 07, 2020 12:24:53 PM calculator calc
+INFO: Создем новый объект рабочего - #
+апр. 07, 2020 12:24:53 PM calculator calc
+INFO: Вызвали рабочего - # с параметрами  # *
+апр. 07, 2020 12:24:53 PM calculator calc
+INFO: Считали строку рабочего файла - SQRT
+апр. 07, 2020 12:24:53 PM calculator calc
+INFO: Создем новый объект рабочего - SQRT
+апр. 07, 2020 12:24:53 PM calculator calc
+INFO: Вызвали рабочего - SQRT с параметрами  SQRT
+апр. 07, 2020 12:24:53 PM sqrt todo
+INFO: Определили аргумент как - 4.0
+апр. 07, 2020 12:24:53 PM sqrt todo
+INFO: Записали результат в стек - 2.0
+апр. 07, 2020 12:24:53 PM calculator calc
+INFO: Считали строку рабочего файла - PRINT
+апр. 07, 2020 12:24:53 PM calculator calc
+INFO: Создем новый объект рабочего - PRINT
+апр. 07, 2020 12:24:53 PM calculator calc
+INFO: Вызвали рабочего - PRINT с параметрами  PRINT
+апр. 07, 2020 12:24:53 PM print todo
+INFO: Определили аргумент как - 2.0
